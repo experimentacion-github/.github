@@ -1,0 +1,8 @@
+{
+    "name": "Echo Test Workflow",
+    "description": "Plantilla de prueba.",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ]
+}
